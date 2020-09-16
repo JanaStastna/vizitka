@@ -4,7 +4,14 @@ body {
 }
 
 p {
-  color: darkmagenta;
   font-size: large;
   padding: 10px;
+}
+
+a {
+  color: darkmagenta;
+}
+
+a:hover {
+  color: white;
 }
