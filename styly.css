@@ -3,3 +3,8 @@ body {
   color: pink;
 }
 
+p {
+  color: darkmagenta;
+  font-size: large;
+  padding: 10px;
+}
