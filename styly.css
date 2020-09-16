@@ -15,3 +15,7 @@ a {
 a:hover {
   color: white;
 }
+
+img {
+  radius: 50%;
+}
